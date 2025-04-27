@@ -3,6 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/Deep-Facial-Recognition?style=social)](https://github.com/yourusername/Deep-Facial-Recognition/stargazers)
+[![GitHub license](https://img.shields.io/github/license/yourusername/Deep-Facial-Recognition)](https://github.com/yourusername/Deep-Facial-Recognition/blob/main/LICENSE)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?&logo=opencv&logoColor=white)](https://opencv.org)
 [![Kivy](https://img.shields.io/badge/Kivy-2.0.0%2B-green.svg)](https://kivy.org)
 
