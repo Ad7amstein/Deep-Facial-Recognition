@@ -8,6 +8,13 @@
 
 A facial verification system using a Siamese Neural Network architecture built with PyTorch. This project enables real-time facial recognition with a webcam to verify if a person matches registered faces in the verification database.
 
+## Application Demo
+
+| Verified (Hi 3llam 🫡) ✅ | Unverified (Not Recognized ❌) |
+|:-------------------------:|:-------------------------:|
+|![Verified Face](verified_img.png) | ![Unverified Face](unverified_img.png)|
+|*System recognizes the registered face* | *System doesn't recognize the face* |
+
 ## Overview 🔍
 
 This system uses one-shot learning via a Siamese network to perform facial verification without requiring large datasets of the target individual. The model compares an input face against a database of verification images and determines if it's a match based on configurable thresholds.
