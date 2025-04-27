@@ -93,8 +93,8 @@ class CampApp(App):
     def verify(self, *args):
         """Verification function"""
         # Specify thresholds
-        detection_threshold = 0.9
-        verification_threshold = 0.8
+        detection_threshold = 0.8
+        verification_threshold = 0.7
 
         # Capture input image from webcam
         SAVE_PATH = os.path.join(APP_DATA_PATH, "input_image", "input_img.jpg")
