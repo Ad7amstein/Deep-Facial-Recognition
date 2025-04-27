@@ -48,9 +48,9 @@ Deep-Facial-Recognition/
 
 The system implements a Siamese Neural Network with:
 
-- Embedding network with CNN layers for feature extraction 🧩
-- L1 Distance layer to compute similarity between embeddings 📏
-- Classification layer to determine verification probability 📊
+- `Embedding network` with CNN layers for feature extraction 🧩
+- `L1 Distance layer` to compute similarity between embeddings 📏
+- `Classification layer` to determine verification probability 📊
 
 ### Training Process 🏋️‍♂️
 
