@@ -12,7 +12,7 @@ A facial verification system using a Siamese Neural Network architecture built w
 
 | Verified (Hi 3llam 🫡) ✅ | Unverified (Not Recognized ❌) |
 |:-------------------------:|:-------------------------:|
-|![Verified Face](verified_img.png) | ![Unverified Face](unverified_img.png)|
+|![Verified Face](assets/verified_img.png) | ![Unverified Face](assets/unverified_img.png)|
 |*System recognizes the registered face* | *System doesn't recognize the face* |
 
 ## Overview 🔍
